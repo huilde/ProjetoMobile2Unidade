@@ -17,6 +17,14 @@ public class SharedPreferencesHelper {
         editor.apply();
     }
 
+    public static void saveDefaultCredentials(Context context) {
+        SharedPreferences sharedPreferences = context.getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE);
+        SharedPreferences.Editor editor = sharedPreferences.edit();
+        editor.putString(KEY_USERNAME, KEY_USERNAME);
+        editor.putString(KEY_PASSWORD, KEY_PASSWORD);
+        editor.apply();
+    }
+
     public static String getSavedUsername(Context context) {
         SharedPreferences sharedPreferences = context.getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE);
         return sharedPreferences.getString(KEY_USERNAME, "");

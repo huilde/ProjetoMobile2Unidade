@@ -1,6 +1,7 @@
 package com.example.calculadoraimd.domain;
+import java.io.Serializable;
 
-public class Produto {
+public class Produto implements Serializable  {
 
     // Atributos
     private String codigoProduto;

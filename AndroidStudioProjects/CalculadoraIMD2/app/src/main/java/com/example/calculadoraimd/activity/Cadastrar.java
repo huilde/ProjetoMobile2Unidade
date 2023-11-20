@@ -60,7 +60,7 @@ public class Cadastrar extends AppCompatActivity {
 
                 Produto novoProduto = new Produto(codigoStr, nomeStr,descricaoStr,Integer.valueOf(estoqueStr));
                 ProdutoRepository repository =  ProdutoRepository.getInstance();
-                repository.criarProduto(novoProduto);
+                repository.criarProduto(novoProduto,this.getFilesDir());
 
                 Toast
                         .makeText(this, "produto salvo", Toast.LENGTH_SHORT)

@@ -1,13 +1,12 @@
-package com.example.calculadoraimd;
+package com.example.calculadoraimd.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.fragment.app.FragmentTransaction;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.view.View;
-import android.widget.Button;
 import android.widget.TextView;
+
+import com.example.calculadoraimd.R;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -21,7 +20,7 @@ private TextView btnEntrar, btnTrocarSenha;
 
         btnEntrar = findViewById(R.id.entrar);
         btnEntrar.setOnClickListener(v -> {
-            Intent intent = new Intent(MainActivity.this, menu.class);
+            Intent intent = new Intent(MainActivity.this, Menu.class);
 
             // Inicie a nova atividade
             startActivity(intent);

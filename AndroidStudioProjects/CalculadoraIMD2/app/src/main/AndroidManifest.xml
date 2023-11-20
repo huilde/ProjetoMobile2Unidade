@@ -13,31 +13,26 @@
         android:theme="@style/Theme.CalculadoraIMD"
         tools:targetApi="31">
         <activity
-            android:name=".listar"
+            android:name=".activity.Listar"
             android:exported="false" />
         <activity
-            android:name=".deletar"
+            android:name=".activity.Deletar"
             android:exported="false" />
         <activity
-            android:name=".alterar"
+            android:name=".activity.Alterar"
             android:exported="false" />
         <activity
-            android:name=".cadastrar"
+            android:name=".activity.Cadastrar"
             android:exported="false"
             android:label="@string/title_activity_cadastrar"
             android:theme="@style/Theme.CalculadoraIMD" />
         <activity
-            android:name=".menu"
+            android:name=".activity.Menu"
             android:exported="false"
             android:label="@string/title_activity_menu"
             android:theme="@style/Theme.CalculadoraIMD" />
         <activity
-            android:name=".menuActivity"
-            android:exported="false"
-            android:label="@string/title_activity_menu"
-            android:theme="@style/Theme.CalculadoraIMD" />
-        <activity
-            android:name=".MainActivity"
+            android:name=".activity.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

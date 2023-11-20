@@ -1,4 +1,4 @@
-package com.example.calculadoraimd;
+package com.example.calculadoraimd.domain;
 
 public class Produto {
 

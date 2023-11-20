@@ -1,10 +1,13 @@
-package com.example.calculadoraimd;
+package com.example.calculadoraimd.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.SharedPreferences;
 import android.os.Bundle;
 
-public class alterar extends AppCompatActivity {
+import com.example.calculadoraimd.R;
+
+public class Alterar extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

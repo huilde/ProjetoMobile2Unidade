@@ -13,7 +13,7 @@
         android:text="btnAlterar" />
 
     <Button
-        android:id="@+id/voltar"
+        android:id="@+id/salvar"
         android:layout_width="96dp"
         android:layout_height="41dp"
         android:layout_marginBottom="24dp"
@@ -23,7 +23,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.222"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/descricao2"
+        app:layout_constraintTop_toBottomOf="@+id/estoque"
         app:layout_constraintVertical_bias="1.0" />
 
     <Button
@@ -37,7 +37,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.704"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/descricao2"
+        app:layout_constraintTop_toBottomOf="@+id/estoque"
         app:layout_constraintVertical_bias="1.0" />
 
     <LinearLayout
@@ -179,7 +179,7 @@
         app:layout_constraintTop_toBottomOf="@+id/textView5" />
 
     <EditText
-        android:id="@+id/descricao2"
+        android:id="@+id/estoque"
         android:layout_width="387dp"
         android:layout_height="37dp"
         android:layout_marginTop="340dp"

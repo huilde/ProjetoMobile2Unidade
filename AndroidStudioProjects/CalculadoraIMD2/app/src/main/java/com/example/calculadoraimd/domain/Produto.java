@@ -6,9 +6,9 @@ public class Produto {
     private String codigoProduto;
     private String nomeProduto;
     private String descricaoProduto;
-    private int estoque;
+    private Integer estoque;
 
-    public Produto(String codigoProduto, String nomeProduto, String descricaoProduto, int estoque) {
+    public Produto(String codigoProduto, String nomeProduto, String descricaoProduto, Integer estoque) {
         this.codigoProduto = codigoProduto;
         this.nomeProduto = nomeProduto;
         this.descricaoProduto = descricaoProduto;

@@ -12,7 +12,7 @@
         tools:context=".activity.MainActivity">
 
         <Button
-            android:id="@+id/voltar"
+            android:id="@+id/salvar"
             android:layout_width="96dp"
             android:layout_height="41dp"
             android:layout_marginBottom="24dp"

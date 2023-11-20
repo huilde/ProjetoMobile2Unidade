@@ -24,7 +24,7 @@ public class Menu extends AppCompatActivity {
 
         btnCadastrar = findViewById(R.id.cadastrar);
         btnAlterar = findViewById(R.id.alterar);
-        btnDeletar = findViewById(R.id.voltar);
+        btnDeletar = findViewById(R.id.salvar);
         btnListar = findViewById(R.id.listar);
         btnCadastrar.setOnClickListener(v -> {
             Intent intent = new Intent(Menu.this, Cadastrar.class);

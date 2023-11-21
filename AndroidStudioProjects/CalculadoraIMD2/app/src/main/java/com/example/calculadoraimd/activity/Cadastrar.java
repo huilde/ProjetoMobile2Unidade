@@ -65,7 +65,8 @@ public class Cadastrar extends AppCompatActivity {
                 Toast
                         .makeText(this, "produto salvo", Toast.LENGTH_SHORT)
                         .show();
-                System.out.println(repository.lerProdutos());
+                System.out.println(repository.lerProdutos(this.getFilesDir()));
+                finish();
             }
         });
 

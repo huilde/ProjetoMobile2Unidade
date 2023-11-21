@@ -52,4 +52,14 @@ public class Produto implements Serializable  {
         this.estoque = estoque;
     }
 
+
+    @Override
+    public String toString() {
+        return "{" +
+                "\"code\": \"" + codigoProduto + "\"," +
+                "\"name\": \"" + nomeProduto + "\"," +
+                "\"description\": \"" + descricaoProduto + "\"," +
+                "\"stock\": " + estoque +
+                "}";
+    }
 }

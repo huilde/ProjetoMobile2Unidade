@@ -1,0 +1,1063 @@
+.site_site {
+  margin: auto;
+  width: 100%;
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  background: rgba(249, 249, 245, 1);
+}
+.site_site .NavbarLogoLeft {
+  flex: none;
+  margin-bottom: 0;
+  height: 67.89999999999999px;
+  align-self: stretch;
+  display: flex;
+  box-sizing: border-box;
+  justify-content: space-around;
+  align-items: center;
+  width: 100vw;
+  padding: 0 5vw;
+}
+.site_site .NavbarLogoLeft .NavbarContainer {
+  height: 32.98px;
+  display: flex;
+  box-sizing: border-box;
+  justify-content: center;
+  align-items: center;
+}
+.site_site .NavbarLogoLeft .NavbarContainer .NavbarContent {
+  position: relative;
+  flex: none;
+  margin-right: NaNpx;
+  width: 100%;
+  height: 32.98px;
+  display: flex;
+  box-sizing: border-box;
+  /* gap: 80%; */
+  /* justify-content: space-between; */
+  align-items: center;
+}
+
+.example-container div {
+  background: red;
+  border-radius: 30px;
+  width: 150px;
+  height: 150px;
+}
+.site_site .NavbarLogoLeft .NavbarContainer .NavbarContent .ElizabethSoares {
+  position: relative;
+  flex: none;
+  width: 62.08px;
+  height: 32.98px;
+  color: rgba(0, 0, 0, 1);
+  font-family: Inter;
+  font-size: 13.58px;
+  font-weight: 700;
+  line-height: 16.434886531829832px;
+}
+.site_site .NavbarLogoLeft .NavbarContainer .NavbarContent .Frame427319684 {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Home {
+  position: relative;
+  flex: none;
+  width: 38.8px;
+  height: 16.49px;
+  color: rgba(0, 0, 0, 1);
+  font-family: Inter;
+  font-size: 13.58px;
+  font-weight: 500;
+  line-height: 16.434886531829832px;
+}
+
+.site_site .HeroHeadingLeft {
+  position: relative;
+  flex: none;
+  margin-bottom: NaNpx;
+  height: 805.1px;
+  align-self: stretch;
+  display: flex;
+  padding-top: 62.08px;
+  padding-right: 23.28px;
+  padding-bottom: 62.08px;
+  padding-left: 23.28px;
+  box-sizing: border-box;
+  justify-content: center;
+  align-items: center;
+}
+.site_site .HeroHeadingLeft .Container {
+  position: relative;
+  flex: none;
+  margin-right: 77.6px;
+  width: 1164px;
+  height: 484.03px;
+  display: flex;
+  padding-top: 77.6px;
+  padding-bottom: 77.6px;
+  box-sizing: border-box;
+  align-items: center;
+}
+.site_site .HeroHeadingLeft .Container .Column {
+  position: relative;
+  flex: none;
+  margin-right: 77.6px;
+  width: 1164px;
+  height: 328.83px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.site_site .HeroHeadingLeft .Container .Column .Designerdeproduto {
+  position: relative;
+  flex: none;
+  margin-bottom: 23.28px;
+  width: 190.12px;
+  height: 23.28px;
+  color: rgba(144, 144, 144, 1);
+  font-family: Inter;
+  font-size: 19.4px;
+  font-weight: 500;
+  line-height: 23.478407745361327px;
+}
+.site_site
+  .HeroHeadingLeft
+  .Container
+  .Column
+  .Projetandoprodutosinclusivosencantadoreseimpactantes {
+  position: relative;
+  flex: none;
+  margin-bottom: 23.28px;
+  width: 995.22px;
+  height: 282.27px;
+  color: rgba(0, 0, 0, 1);
+  font-family: Inter;
+  font-size: 77.6px;
+  font-weight: 700;
+  line-height: 93.91363098144531px;
+}
+.site_site .HeroHeadingRight {
+  position: relative;
+  flex: none;
+  margin-bottom: NaNpx;
+  width: 1443.36px;
+  height: 704.22px;
+  display: flex;
+  padding-top: 62.08px;
+  padding-right: 23.28px;
+  padding-bottom: 62.08px;
+  padding-left: 23.28px;
+  box-sizing: border-box;
+  justify-content: center;
+}
+.site_site .HeroHeadingRight .Container_1 {
+  position: relative;
+  flex: none;
+  margin-right: 77.6px;
+  width: 1164px;
+  height: 580.06px;
+  display: flex;
+  box-sizing: border-box;
+}
+.site_site .HeroHeadingRight .Container_1 .Column_1 {
+  position: relative;
+  flex: none;
+  margin-right: 77.6px;
+  width: 543.1999999999999px;
+  height: 381.1134381103515px;
+  display: flex;
+  box-sizing: border-box;
+}
+.site_site .HeroHeadingRight .Container_1 .Column_1 .ImageWrapper {
+  position: relative;
+  flex: none;
+  margin-right: 9.7px;
+  width: 543.1999999999999px;
+  height: 381.1134381103515px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  justify-content: center;
+  align-items: center;
+}
+.site_site .HeroHeadingRight .Container_1 .Column_1 .ImageWrapper .Image {
+  position: relative;
+  flex: none;
+  margin-bottom: NaNpx;
+  height: 381.1134381103515px;
+  align-self: stretch;
+  object-fit: cover;
+  overflow: hidden;
+  display: flex;
+  box-sizing: border-box;
+  justify-content: center;
+  align-items: center;
+}
+.site_site .HeroHeadingRight .Container_1 .Column_2 {
+  position: relative;
+  flex: none;
+  margin-right: 77.6px;
+  width: 543.1999999999999px;
+  height: 580.06px;
+  display: flex;
+  flex-direction: column;
+  padding-top: 194px;
+  box-sizing: border-box;
+}
+.site_site
+  .HeroHeadingRight
+  .Container_1
+  .Column_2
+  .Atuocomodesignerh8anoscomosltimos5anosdedicadosaodesigndeprodutosdigitaisMeupropsitopromoverimpactopositivonavidadaspessoaspormeiodeprodutoseficientesinclusivosesignificativos {
+  position: relative;
+  flex: none;
+  margin-bottom: 23.28px;
+  width: 467.53999999999996px;
+  height: 197.88px;
+  color: rgba(0, 0, 0, 1);
+  font-family: Inter;
+  font-size: 23.28px;
+  font-weight: 700;
+  line-height: 32.71369255065918px;
+}
+.site_site
+  .HeroHeadingRight
+  .Container_1
+  .Column_2
+  .PortrsdadesignercombachareladoeespecializaoemprodutosdigitaishumameninaquedesdeapocadoOrkutjseaventuravacomHTMLePhotoscapesemsaberqueissomudariaoseurumoprofissionalDuranteoensinomdioaocursartcnicoemmultimdiameapaixoneipelodesignetudoqueeleenglobaescolhiseguirestacarreiraemeaprimoreinareadigitaletecnolgicaTenhoumolharminuciosoparaasinterfacescomcuidadoeprecisoparaencantarecriarvalordeformasignificativaconcretizandoideiaseprojetandoexperinciasVercurrculo {
+  position: relative;
+  flex: none;
+  margin-bottom: 23.28px;
+  width: 467.53999999999996px;
+  height: 164.9px;
+  color: rgba(0, 0, 0, 1);
+  font-family: Inter;
+  font-size: 11.64px;
+  font-weight: 400;
+  line-height: 16.35684627532959px;
+}
+.site_site .HeroNoImage {
+  position: relative;
+  flex: none;
+  margin-bottom: NaNpx;
+  height: 292.94px;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  padding-top: 62.08px;
+  padding-right: 23.28px;
+  padding-bottom: 62.08px;
+  padding-left: 23.28px;
+  box-sizing: border-box;
+  align-items: center;
+}
+.site_site .HeroNoImage .Frame4 {
+  position: relative;
+  flex: none;
+  margin-bottom: 77.6px;
+  width: 1396.8px;
+  height: 168.78px;
+}
+.site_site .HeroNoImage .Frame4 .Group2 {
+  position: absolute;
+  left: -1159.1499999999999px;
+  top: 0px;
+  width: 2810.09px;
+  height: 168.78px;
+}
+.site_site .HeroNoImage .Frame4 .Group2 .FeaturedWork {
+  position: absolute;
+  left: 973.88px;
+  top: 0px;
+  width: 862.3299999999999px;
+  height: 168.78px;
+  color: rgba(0, 0, 0, 1);
+  font-family: Inter;
+  font-size: 120.28px;
+  font-weight: 700;
+  line-height: 169.0207386779785px;
+}
+.site_site .HeroNoImage .Frame4 .Group2 .FeaturedWork_1 {
+  position: absolute;
+  left: 1947.76px;
+  top: 0px;
+  width: 862.3299999999999px;
+  height: 168.78px;
+  color: rgba(0, 0, 0, 1);
+  font-family: Inter;
+  font-size: 120.28px;
+  font-weight: 700;
+  line-height: 169.0207386779785px;
+}
+.site_site .HeroNoImage .Frame4 .Group2 .FeaturedWork_2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 862.3299999999999px;
+  height: 168.78px;
+  color: rgba(0, 0, 0, 1);
+  font-family: Inter;
+  font-size: 120.28px;
+  font-weight: 700;
+  line-height: 169.0207386779785px;
+}
+.site_site .HeroNoImage .Frame4 .Group2 .Ellipse8 {
+  position: absolute;
+  left: 910.8299999999999px;
+  top: 77.6px;
+  width: 14.549999999999999px;
+  height: 14.549999999999999px;
+  background: rgba(0, 0, 0, 1);
+  border-radius: 50%;
+}
+.site_site .HeroNoImage .Frame4 .Group2 .Ellipse9 {
+  position: absolute;
+  left: 1884.71px;
+  top: 77.6px;
+  width: 14.549999999999999px;
+  height: 14.549999999999999px;
+  background: rgba(0, 0, 0, 1);
+  border-radius: 50%;
+}
+.site_site .HeroNoImage_1 {
+  position: relative;
+  flex: none;
+  margin-bottom: NaNpx;
+  height: 776px;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  padding-top: 62.08px;
+  padding-right: 62.08px;
+  padding-bottom: 62.08px;
+  padding-left: 62.08px;
+  box-sizing: border-box;
+  justify-content: flex-end;
+  align-items: flex-end;
+  background: rgba(98, 98, 240, 1);
+}
+.site_site .HeroNoImage_1 .Frame427319685 {
+  position: relative;
+  flex: none;
+  margin-bottom: 77.6px;
+  height: 230.85999999999999px;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  align-items: center;
+}
+.site_site .HeroNoImage_1 .Frame427319685 ._13 {
+  position: relative;
+  flex: none;
+  margin-bottom: 19.4px;
+  height: 23.28px;
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-end;
+  text-align: right;
+  color: rgba(255, 255, 255, 1);
+  font-family: Inter;
+  font-size: 19.4px;
+  font-weight: 400;
+  line-height: 23.478407745361327px;
+}
+.site_site .HeroNoImage_1 .Frame427319685 .VisualDesign {
+  position: relative;
+  flex: none;
+  margin-bottom: 19.4px;
+  height: 188.18px;
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-end;
+  text-align: right;
+  color: rgba(255, 255, 255, 1);
+  font-family: Inter;
+  font-size: 77.6px;
+  font-weight: 600;
+  line-height: 93.91363098144531px;
+}
+.site_site .HeroNoImage_2 {
+  position: relative;
+  flex: none;
+  margin-bottom: NaNpx;
+  height: 776px;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  padding-top: 62.08px;
+  padding-right: 62.08px;
+  padding-bottom: 62.08px;
+  padding-left: 62.08px;
+  box-sizing: border-box;
+  justify-content: flex-end;
+  align-items: flex-end;
+  background: rgba(17, 123, 116, 1);
+}
+.animationContainer {
+  padding: 4rem 1.5rem;
+  flex-direction: column;
+  background: red;
+  display: block;
+  height: 1588px;
+  margin: 4rem 0rem;
+}
+
+.animationChild,
+.animationChild2 {
+  display: block;
+  align-items: center;
+
+  color: #000;
+  font-family: Inter;
+  font-size: 5.75rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 140.523%;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+.site_site .HeroNoImage_2 .Frame427319685_1 {
+  position: relative;
+  flex: none;
+  margin-bottom: 77.6px;
+  height: 230.85999999999999px;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  align-items: center;
+}
+.site_site .HeroNoImage_2 .Frame427319685_1 ._23 {
+  position: relative;
+  flex: none;
+  margin-bottom: 19.4px;
+  height: 23.28px;
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-end;
+  text-align: right;
+  color: rgba(255, 255, 255, 1);
+  font-family: Inter;
+  font-size: 19.4px;
+  font-weight: 400;
+  line-height: 23.478407745361327px;
+}
+.site_site .HeroNoImage_2 .Frame427319685_1 .Experinciadousurio {
+  position: relative;
+  flex: none;
+  margin-bottom: 19.4px;
+  height: 188.18px;
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-end;
+  text-align: right;
+  color: rgba(255, 255, 255, 1);
+  font-family: Inter;
+  font-size: 77.6px;
+  font-weight: 600;
+  line-height: 93.91363098144531px;
+}
+.site_site .HeroNoImage_3 {
+  position: relative;
+  flex: none;
+  margin-bottom: NaNpx;
+  height: 776px;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  padding-top: 62.08px;
+  padding-right: 62.08px;
+  padding-bottom: 62.08px;
+  padding-left: 62.08px;
+  box-sizing: border-box;
+  justify-content: flex-end;
+  align-items: flex-end;
+  background: rgba(22, 15, 44, 1);
+}
+.site_site .HeroNoImage_3 .Frame427319685_2 {
+  position: relative;
+  flex: none;
+  margin-bottom: 77.6px;
+  height: 230.85999999999999px;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  align-items: center;
+}
+.site_site .HeroNoImage_3 .Frame427319685_2 ._33 {
+  position: relative;
+  flex: none;
+  margin-bottom: 19.4px;
+  height: 23.28px;
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-end;
+  text-align: right;
+  color: rgba(255, 255, 255, 1);
+  font-family: Inter;
+  font-size: 19.4px;
+  font-weight: 400;
+  line-height: 23.478407745361327px;
+}
+.site_site .HeroNoImage_3 .Frame427319685_2 .Inclusoeacessibilidade {
+  position: relative;
+  flex: none;
+  margin-bottom: 19.4px;
+  height: 188.18px;
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-end;
+  text-align: right;
+  color: rgba(255, 255, 255, 1);
+  font-family: Inter;
+  font-size: 77.6px;
+  font-weight: 600;
+  line-height: 93.91363098144531px;
+}
+.site_site .HeroNoImage_4 {
+  position: relative;
+  flex: none;
+  margin-bottom: NaNpx;
+  width: 100vw;
+  height: 776px;
+  display: flex;
+  flex-direction: column;
+  padding-top: 62.08px;
+  padding-right: 139.68px;
+  padding-bottom: 62.08px;
+  padding-left: 139.68px;
+  box-sizing: border-box;
+  align-items: center;
+}
+.site_site .HeroNoImage_4 .Frame427319690 {
+  position: relative;
+  flex: none;
+  margin-bottom: 77.6px;
+  height: 343.38px;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  justify-content: flex-end;
+  align-items: center;
+}
+.site_site .HeroNoImage_4 .Frame427319690 .Chegouataqui {
+  position: relative;
+  flex: none;
+  margin-bottom: 23.28px;
+  width: 161.01999999999998px;
+  height: 23.28px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: rgba(147, 147, 149, 1);
+  font-family: Inter;
+  font-size: 19.4px;
+  font-weight: 400;
+  line-height: 23.478407745361327px;
+}
+.site_site .HeroNoImage_4 .Frame427319690 .Entreemcontato {
+  position: relative;
+  flex: none;
+  margin-bottom: 23.28px;
+  width: 707.13px;
+  height: 103.78999999999999px;
+  color: rgba(0, 0, 0, 1);
+  font-family: Inter;
+  font-size: 85.36px;
+  font-weight: 600;
+  line-height: 103.30499999999999px;
+}
+.site_site .HeroNoImage_4 .Frame427319690 .Frame427319686 {
+  position: relative;
+  flex: none;
+  margin-bottom: 23.28px;
+  width: 164.9px;
+  height: 48.5px;
+  display: flex;
+  box-sizing: border-box;
+}
+.site_site .HeroNoImage_4 .Frame427319690 .Frame427319686 .Group10 {
+  position: relative;
+  flex: none;
+  margin-right: 9.7px;
+  width: 48.5px;
+  height: 48.5px;
+}
+.site_site .HeroNoImage_4 .Frame427319690 .Frame427319686 .Group10 .Group4 {
+  position: absolute;
+  left: 12.61px;
+  top: 12.61px;
+  width: 23.28px;
+  height: 23.28px;
+}
+.site_site
+  .HeroNoImage_4
+  .Frame427319690
+  .Frame427319686
+  .Group10
+  .Group4
+  .rilinkedinfill {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 23.28px;
+  height: 23.28px;
+}
+.site_site
+  .HeroNoImage_4
+  .Frame427319690
+  .Frame427319686
+  .Group10
+  .Group4
+  .rilinkedinfill
+  .Vector {
+  position: absolute;
+  left: 2.8518023681640625px;
+  top: 2.909052734375px;
+  width: 79.4166644414266%;
+  height: 75.0041643778483%;
+}
+.site_site .HeroNoImage_4 .Frame427319690 .Frame427319686 .Group10 .Ellipse4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 48.5px;
+  height: 48.5px;
+  border-radius: 50%;
+  border: 1px solid
+    rgba(232.00000137090683, 231.00000143051147, 234.00000125169754, 1);
+  box-sizing: border-box;
+}
+.site_site .HeroNoImage_4 .Frame427319690 .Frame427319686 .Group11 {
+  position: relative;
+  flex: none;
+  margin-right: 9.7px;
+  width: 48.5px;
+  height: 48.5px;
+}
+.site_site .HeroNoImage_4 .Frame427319690 .Frame427319686 .Group11 .Group5 {
+  position: absolute;
+  left: 12.61px;
+  top: 12.61px;
+  width: 23.28px;
+  height: 23.28px;
+}
+.site_site
+  .HeroNoImage_4
+  .Frame427319690
+  .Frame427319686
+  .Group11
+  .Group5
+  .ridribbbleline {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 23.28px;
+  height: 23.28px;
+}
+.site_site
+  .HeroNoImage_4
+  .Frame427319690
+  .Frame427319686
+  .Group11
+  .Group5
+  .ridribbbleline
+  .Vector_1 {
+  position: absolute;
+  left: 1.94px;
+  top: 1.94px;
+  width: 83.33333333333334%;
+  height: 83.33333333333334%;
+}
+.site_site .HeroNoImage_4 .Frame427319690 .Frame427319686 .Group11 .Ellipse5 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 48.5px;
+  height: 48.5px;
+  border-radius: 50%;
+  border: 1px solid
+    rgba(232.00000137090683, 231.00000143051147, 234.00000125169754, 1);
+  box-sizing: border-box;
+}
+.site_site .HeroNoImage_4 .Frame427319690 .Frame427319686 .Group12 {
+  position: relative;
+  flex: none;
+  margin-right: 9.7px;
+  width: 48.5px;
+  height: 48.5px;
+}
+.site_site .HeroNoImage_4 .Frame427319690 .Frame427319686 .Group12 .Group6 {
+  position: absolute;
+  left: 12.61px;
+  top: 12.61px;
+  width: 23.28px;
+  height: 23.28px;
+}
+.site_site
+  .HeroNoImage_4
+  .Frame427319690
+  .Frame427319686
+  .Group12
+  .Group6
+  .ribehancefill {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 23.28px;
+  height: 23.28px;
+}
+.site_site
+  .HeroNoImage_4
+  .Frame427319690
+  .Frame427319686
+  .Group12
+  .Group6
+  .ribehancefill
+  .Vector_2 {
+  position: absolute;
+  left: 0.97px;
+  top: 5.189476318359375px;
+  width: 92.29259490966797%;
+  height: 58.333444595336914%;
+}
+.site_site .HeroNoImage_4 .Frame427319690 .Frame427319686 .Group12 .Ellipse6 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 48.5px;
+  height: 48.5px;
+  border-radius: 50%;
+  border: 1px solid
+    rgba(232.00000137090683, 231.00000143051147, 234.00000125169754, 1);
+  box-sizing: border-box;
+}
+.site_site .HeroNoImage_4 .Line10 {
+  position: relative;
+  flex: none;
+  margin-bottom: 77.6px;
+  width: 1396.8px;
+  height: 0px;
+  border: 1px solid
+    rgba(232.00000137090683, 231.00000143051147, 234.00000125169754, 1);
+}
+.site_site .HeroNoImage_4 .Frame427319689 {
+  position: relative;
+  flex: none;
+  margin-bottom: 77.6px;
+  height: 153.26px;
+  align-self: stretch;
+  display: flex;
+  box-sizing: border-box;
+  justify-content: center;
+}
+.site_site .HeroNoImage_4 .Frame427319689 .Frame427319687 {
+  position: relative;
+  flex: none;
+  margin-right: 77.6px;
+  width: 729.4399999999999px;
+  height: 153.26px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.site_site
+  .HeroNoImage_4
+  .Frame427319689
+  .Frame427319687
+  .ElizabethSoaresumadesignerbrasileiracombasegeneralistacomfocoemprodutosdigitais {
+  position: relative;
+  flex: none;
+  margin-bottom: 23.28px;
+  width: 351.14px;
+  height: 81.48px;
+  color: rgba(147, 147, 149, 1);
+  font-family: Inter;
+  font-size: 22.31px;
+  font-weight: 500;
+  line-height: 27.000169277191162px;
+}
+.site_site .HeroNoImage_4 .Frame427319689 .Frame427319687 .Frame427319686_1 {
+  position: relative;
+  flex: none;
+  margin-bottom: 23.28px;
+  width: 164.9px;
+  height: 48.5px;
+  display: flex;
+  box-sizing: border-box;
+}
+.site_site
+  .HeroNoImage_4
+  .Frame427319689
+  .Frame427319687
+  .Frame427319686_1
+  .Group10_1 {
+  position: relative;
+  flex: none;
+  margin-right: 9.7px;
+  width: 48.5px;
+  height: 48.5px;
+}
+.site_site
+  .HeroNoImage_4
+  .Frame427319689
+  .Frame427319687
+  .Frame427319686_1
+  .Group10_1
+  .Group4_1 {
+  position: absolute;
+  left: 12.61px;
+  top: 12.61px;
+  width: 23.28px;
+  height: 23.28px;
+}
+.site_site
+  .HeroNoImage_4
+  .Frame427319689
+  .Frame427319687
+  .Frame427319686_1
+  .Group10_1
+  .Group4_1
+  .rilinkedinfill_1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 23.28px;
+  height: 23.28px;
+}
+.site_site
+  .HeroNoImage_4
+  .Frame427319689
+  .Frame427319687
+  .Frame427319686_1
+  .Group10_1
+  .Group4_1
+  .rilinkedinfill_1
+  .Vector_3 {
+  position: absolute;
+  left: 2.8518023681640625px;
+  top: 2.909052734375px;
+  width: 79.4166644414266%;
+  height: 75.0041643778483%;
+}
+.site_site
+  .HeroNoImage_4
+  .Frame427319689
+  .Frame427319687
+  .Frame427319686_1
+  .Group10_1
+  .Ellipse4_1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 48.5px;
+  height: 48.5px;
+  border-radius: 50%;
+  border: 1px solid
+    rgba(232.00000137090683, 231.00000143051147, 234.00000125169754, 1);
+  box-sizing: border-box;
+}
+.site_site
+  .HeroNoImage_4
+  .Frame427319689
+  .Frame427319687
+  .Frame427319686_1
+  .Group11_1 {
+  position: relative;
+  flex: none;
+  margin-right: 9.7px;
+  width: 48.5px;
+  height: 48.5px;
+}
+.site_site
+  .HeroNoImage_4
+  .Frame427319689
+  .Frame427319687
+  .Frame427319686_1
+  .Group11_1
+  .Group5_1 {
+  position: absolute;
+  left: 12.61px;
+  top: 12.61px;
+  width: 23.28px;
+  height: 23.28px;
+}
+.site_site
+  .HeroNoImage_4
+  .Frame427319689
+  .Frame427319687
+  .Frame427319686_1
+  .Group11_1
+  .Group5_1
+  .ridribbbleline_1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 23.28px;
+  height: 23.28px;
+}
+.site_site
+  .HeroNoImage_4
+  .Frame427319689
+  .Frame427319687
+  .Frame427319686_1
+  .Group11_1
+  .Group5_1
+  .ridribbbleline_1
+  .Vector_4 {
+  position: absolute;
+  left: 1.94px;
+  top: 1.94px;
+  width: 83.33333333333334%;
+  height: 83.33333333333334%;
+}
+.site_site
+  .HeroNoImage_4
+  .Frame427319689
+  .Frame427319687
+  .Frame427319686_1
+  .Group11_1
+  .Ellipse5_1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 48.5px;
+  height: 48.5px;
+  border-radius: 50%;
+  border: 1px solid
+    rgba(232.00000137090683, 231.00000143051147, 234.00000125169754, 1);
+  box-sizing: border-box;
+}
+.site_site
+  .HeroNoImage_4
+  .Frame427319689
+  .Frame427319687
+  .Frame427319686_1
+  .Group12_1 {
+  position: relative;
+  flex: none;
+  margin-right: 9.7px;
+  width: 48.5px;
+  height: 48.5px;
+}
+.site_site
+  .HeroNoImage_4
+  .Frame427319689
+  .Frame427319687
+  .Frame427319686_1
+  .Group12_1
+  .Group6_1 {
+  position: absolute;
+  left: 12.61px;
+  top: 12.61px;
+  width: 23.28px;
+  height: 23.28px;
+}
+.site_site
+  .HeroNoImage_4
+  .Frame427319689
+  .Frame427319687
+  .Frame427319686_1
+  .Group12_1
+  .Group6_1
+  .ribehancefill_1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 23.28px;
+  height: 23.28px;
+}
+.site_site
+  .HeroNoImage_4
+  .Frame427319689
+  .Frame427319687
+  .Frame427319686_1
+  .Group12_1
+  .Group6_1
+  .ribehancefill_1
+  .Vector_5 {
+  position: absolute;
+  left: 0.97px;
+  top: 5.189476318359375px;
+  width: 92.29259490966797%;
+  height: 58.333444595336914%;
+}
+.site_site
+  .HeroNoImage_4
+  .Frame427319689
+  .Frame427319687
+  .Frame427319686_1
+  .Group12_1
+  .Ellipse6_1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 48.5px;
+  height: 48.5px;
+  border-radius: 50%;
+  border: 1px solid
+    rgba(232.00000137090683, 231.00000143051147, 234.00000125169754, 1);
+  box-sizing: border-box;
+}
+.site_site .HeroNoImage_4 .Frame427319689 .Frame427319688 {
+  position: relative;
+  flex: none;
+  margin-right: 77.6px;
+  width: 356.96px;
+  height: 128.04px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.site_site
+  .HeroNoImage_4
+  .Frame427319689
+  .Frame427319688
+  .NatalRioGrandedoNorteBrasil {
+  position: relative;
+  flex: none;
+  margin-bottom: 23.28px;
+  width: 356.96px;
+  height: 27.16px;
+  color: rgba(147, 147, 149, 1);
+  font-family: Inter;
+  font-size: 22.31px;
+  font-weight: 500;
+  line-height: 27.000169277191162px;
+}
+.site_site
+  .HeroNoImage_4
+  .Frame427319689
+  .Frame427319688
+  .soares0elizabethgmailcom {
+  position: relative;
+  flex: none;
+  margin-bottom: 23.28px;
+  width: 315.25px;
+  height: 27.16px;
+  color: rgba(147, 147, 149, 1);
+  font-family: Inter;
+  font-size: 22.31px;
+  font-weight: 500;
+  line-height: 27.000169277191162px;
+}
+.site_site .HeroNoImage_4 .Frame427319689 .Frame427319688 ._5584996387886 {
+  position: relative;
+  flex: none;
+  margin-bottom: 23.28px;
+  width: 209.51999999999998px;
+  height: 27.16px;
+  color: rgba(147, 147, 149, 1);
+  font-family: Inter;
+  font-size: 22.31px;
+  font-weight: 500;
+  line-height: 27.000169277191162px;
+}
